@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "sagaidak",
+    "MONGO_PASSWORD": "mkQqnrxx3ar8Xp6P",
+    "MONGO_DB": "get-market-list"
+  }
+}
